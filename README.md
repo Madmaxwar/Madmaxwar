@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Madhesh
+- 👋 Hi, I’m Madhesh V
 - 👀 I’m interested in ... Gaming and creating games.
 - 🌱 I’m currently learning ...B.Tech CSC with GT
 - 💞️ I’m looking to collaborate on ... Intenship
